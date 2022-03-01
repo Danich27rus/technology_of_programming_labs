@@ -1,4 +1,4 @@
-# Programming labs
+# Just labs that im making during subject with reports
 My labs from NSTU second course subject "Techonolgies and methods of programming"
 ### What was used?
 Visual Studio 2019 Community (C++ 17)
