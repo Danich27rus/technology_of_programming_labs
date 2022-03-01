@@ -1,4 +1,4 @@
-# technology_of_programming_labs
+# Programming labs
 My labs from NSTU second course subject "Techonolgies and methods of programming"
 ### What was used?
 Visual Studio 2019 Community (C++ 17)
