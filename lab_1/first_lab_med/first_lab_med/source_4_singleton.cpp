@@ -2,10 +2,10 @@
 
 class Volume {
 public:
-    static Volume& GetInstance() {
+    static Volume* GetInstance() {
         static Volume* singleton = new Volume();
         singleton->getVolume();
-        return *singleton;
+        return singleton;
     }
 
     void increaseVolume(int val) {
@@ -60,8 +60,8 @@ private:
 };
 
 void main() {
-    Volume& system = Volume::GetInstance();
-    system.increaseVolume(40);
+    Volume* system = Volume::GetInstance();
+    system->increaseVolume(40);
 
-    system.decreaseVolume(10);
+    system->decreaseVolume(10);
 }

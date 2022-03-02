@@ -1,5 +1,5 @@
 ﻿  first_med_SOLID.cpp
-C:\Users\grigh\source\repos\first_lab_med_SOLID\first_lab_med_SOLID\first_med_SOLID.cpp(48,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
-C:\Users\grigh\source\repos\first_lab_med_SOLID\first_lab_med_SOLID\first_med_SOLID.cpp(64,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
-C:\Users\grigh\source\repos\first_lab_med_SOLID\first_lab_med_SOLID\first_med_SOLID.cpp(80,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\grigh\source\repos\first_lab_med_SOLID\first_lab_med_SOLID\first_med_SOLID.cpp(45,32): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\grigh\source\repos\first_lab_med_SOLID\first_lab_med_SOLID\first_med_SOLID.cpp(64,32): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\grigh\source\repos\first_lab_med_SOLID\first_lab_med_SOLID\first_med_SOLID.cpp(79,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   first_lab_med_SOLID.vcxproj -> C:\Users\grigh\source\repos\first_lab_med_SOLID\x64\Debug\first_lab_med_SOLID.exe
