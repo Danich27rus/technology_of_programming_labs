@@ -1,3 +1,3 @@
 ﻿  source_4_singleton.cpp
-C:\Users\grigh\source\repos\first_lab_med\first_lab_med\source_4_singleton.cpp(66,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\grigh\source\repos\first_lab_med\first_lab_med\source_4_singleton.cpp(61,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   first_lab_med.vcxproj -> C:\Users\grigh\source\repos\first_lab_med\x64\Debug\first_lab_med.exe
