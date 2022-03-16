@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\grigh\source\repos\second_lab_med\second_lab_med\Source.cpp(95,18): warning C4101: sub: неиспользованная локальная переменная
+  second_lab_med.vcxproj -> C:\Users\grigh\source\repos\second_lab_med\x64\Debug\second_lab_med.exe
