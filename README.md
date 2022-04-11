@@ -48,4 +48,4 @@ scp -P port C:\destination_on_local_host server_user@ssh.cloud.nstu.ru:destinati
 
 ...
 =======
-I will add more information later, when I will be (maybe) also use .dll/.lib libraries
+I will add more information later.
