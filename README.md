@@ -3,7 +3,11 @@ My labs from NSTU second course subject "Techonolgies and methods of programming
 ### What was used?
 Visual Studio 2019 Community (C++ 17)
 ### How to run it?
+<<<<<<< HEAD
 You can use cmake/g++ compilers for it, but the easiest way will be using Visual Studio 2022 (MSVC 143, CMake C++ for Windows)
+=======
+You can use cmake/g++ compilers for it, but the easiest way will be using Visual Studio 2022 (MSVC 143, CMake C++ for Windows). Open a folder with lab and then open file with extension ```.sln```
+>>>>>>> a458c03e71171385f2817a30eecd7a50905741a5
 
 To compile it on Linux/Mac, in terminal type
 ```
@@ -16,6 +20,7 @@ $ sudo apt -y install build-essential
 ```
 On Windows you must use MinGW instalator
 
+<<<<<<< HEAD
 Some description for labs:
 There are reports in all labs in reprository and ```.sln``` file for Visual Studio
 
@@ -47,3 +52,6 @@ scp -P port C:\destination_on_local_host server_user@ssh.cloud.nstu.ru:destinati
 ### Lab 4
 
 ...
+=======
+I will add more information later, when I will be (maybe) also use .dll/.lib libraries
+>>>>>>> a458c03e71171385f2817a30eecd7a50905741a5
