@@ -53,6 +53,3 @@ scp -P port C:\destination_on_local_host server_user@ssh.cloud.nstu.ru:destinati
 ### Lab 5
 
 In this lab, we were making a model for analysing set of pictures, in our case dataset was Char74k, russian symbols
-
-=======
-I will add more information later, when I will be (maybe) also use .dll/.lib libraries
